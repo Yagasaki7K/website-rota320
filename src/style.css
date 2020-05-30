@@ -107,7 +107,7 @@ button:hover {
 }
 
 footer {
-    background-image: url(https://github.com/Yagasakii/rota320-protosite/blob/master/assets/image-footer.png?raw=true);
+    background-image: url(https://raw.githubusercontent.com/Yagasakii/rota320-protosite/master/assets/image-footer.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
